@@ -1,10 +1,7 @@
-Berikut adalah dokumen `README.md` yang siap untuk digunakan di GitHub. Anda dapat menyalin dan menempelkannya ke dalam file `README.md` di repositori Anda:
+## Project Python Humanis Timezone
 
-```markdown
-# Proyek Python Humanis
-
-## Tujuan Proyek
 Proyek Python Humanis bertujuan untuk mencari timezone berdasarkan latitude dan longitude menggunakan data yang diberikan. Aplikasi ini menyediakan dua endpoint:
+
 1. Endpoint `/` yang mengembalikan pesan bahwa API sedang berjalan.
 2. Endpoint `/humanis_timezone` yang mengembalikan informasi timezone, waktu saat ini, dan offset GMT berdasarkan parameter latitude dan longitude.
 
@@ -97,9 +94,4 @@ GET /humanis_timezone?lat=-8.5115987&lon=140.4165321
 
 ---
 
-Dengan README ini, pengguna dapat dengan mudah memahami tujuan proyek, menginstal dependencies yang diperlukan, dan menjalankan aplikasinya. Jika ada tambahan atau modifikasi lain pada README ini, silakan beritahu saya! 😊
-
-```
-
-Silakan simpan dokumen ini sebagai `README.md` di repositori GitHub Anda. Jika Anda memerlukan bantuan lebih lanjut, jangan ragu untuk bertanya!
-```
+#### Sekian dan Terima Kasih😊
